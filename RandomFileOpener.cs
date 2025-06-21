@@ -2,7 +2,7 @@
 // This class represents a Windows Form application that allows users to browse and open random files or folders.
 // The user can select a directory, and based on the contents of that directory, they can choose to open a random file or a random subfolder.
 // The application provides feedback on the selected folder's status and enables or disables the open button accordingly.
-// This program mostly generate by ChatGPT, with some modifications to fit the requirements. LOL XD
+// This program mostly generate by ChatGPT, with some modifications to fit the requirements. Even This Comment lol ffs
 
 using System.Diagnostics;
 
